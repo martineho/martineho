@@ -1,8 +1,11 @@
-## Hi, I am Martine 👋
+## Hi, I am Martine 🦋
 
 👩🏽‍💻 Front end developer and UX designer at [EMerald Geomodelling](https://www.emerald-geomodelling.com/)
+
 🌍 Digital nomad 
+
 📍 Bali | next Sri Lanka
+
 🌱 Growing my skills in Python and Django 
 
 
