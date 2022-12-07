@@ -1,4 +1,4 @@
-# Hi, I am Martine 
+# Hi, I am ✨ Martine ✨ 
 
 
 Front end developer @ [EMerald Geomodelling](https://www.emerald-geomodelling.com/).
