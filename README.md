@@ -2,7 +2,11 @@
 
 Front end developer @ [EMerald Geomodelling](https://www.emerald-geomodelling.com/).
 
-> 100% remote, currently in Indonesia next Sri Lanka
+> 100% remote
+
+📍 currently in Indonesia
+
+
 
 
 
