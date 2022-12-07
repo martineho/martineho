@@ -19,7 +19,7 @@ const About = () => {
     age: 26,
     emojis: 🦋🌍🌈🌴,
     mindset: [ 'growth', 'development', 'freedom' ],
-    hobbies: [ 'travel', 'sun', 'create' ]
+    hobbies: [ 'travel', 'sun', 'mindfulness' ]
   }
 
   const skills = {
