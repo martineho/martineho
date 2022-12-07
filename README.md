@@ -10,12 +10,12 @@ const about = () => {
 
   const bio = {
     height: 181, 
-    pronouns: 'she/her',
+    emoji: 🦋,
     origin: 🇳🇴,
   }
 
   const skills = {
-    languages: ['html', 'css', 'js', 'react'],
+    languages: ['html', 'css', 'js', 'react', 'jquery', 'bootstrap', 'sass'],
     learning: ['python', 'django'],
     design: ['ux', 'ui', 'graphic design'] 
   }
@@ -23,7 +23,6 @@ const about = () => {
 }
 ```
 
-Check out my portfolio 👉🏽 [https://martineho.com/](https://martineho.com/)
 
 
 
