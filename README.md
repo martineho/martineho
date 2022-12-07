@@ -2,7 +2,7 @@
 
 Front end developer @ [EMerald Geomodelling](https://www.emerald-geomodelling.com/).
 
-> 100% remote
+> Digital nomad 
 
 📍 currently in Indonesia
 
