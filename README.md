@@ -1,9 +1,8 @@
-# Hi, I am Martine 🦋
+# Hi, I am Martine 
 
 Front end developer @ [EMerald Geomodelling](https://www.emerald-geomodelling.com/).
 
-🌍 currently in Bali | next Sri Lanka
-🌱 Growing my skills in Python and Django 
+> 100% remote
 
 
 
