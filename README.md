@@ -1,6 +1,5 @@
 # Hi, I am Martine 
 
-&nbsp;
 
 Front end developer @ [EMerald Geomodelling](https://www.emerald-geomodelling.com/).
 
