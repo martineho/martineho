@@ -1,5 +1,7 @@
 # Hi, I am Martine 
 
+&nbsp;
+
 Front end developer @ [EMerald Geomodelling](https://www.emerald-geomodelling.com/).
 
 > 100% work from anywhere
@@ -16,8 +18,8 @@ const about = () => {
   }
 
   const skills = {
-    technologies: ['html', 'css', 'js', 'react', 'jquery', 'bootstrap', 'sass'],
-    learning: ['python', 'django'],
+    technologies: [html, css, sass, javascript, jquery, react, bootstrap],
+    learning: [python, django],
     design: ['ux', 'ui', 'graphic design'] 
   }
 
