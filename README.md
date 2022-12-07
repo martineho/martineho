@@ -4,6 +4,7 @@ Front end developer @ [EMerald Geomodelling](https://www.emerald-geomodelling.co
 
 > 100% work from anywhere
 
+&nbsp;
 
 ```js
 const about = () => {
