@@ -17,24 +17,13 @@ const About = () => {
   const bio = {
     age: 26,
     emojis: 🦋🌍🌈🌴,
-    religion: 'freedom',
-    hobbies: ['travel', 'sun', 'create']
+    mindset: [ 'growth', 'development', 'freedom' ],
+    hobbies: [ 'travel', 'sun', 'create' ]
   }
 
   const skills = {
-    technologies: {
-      html, 
-      css, 
-      sass, 
-      javascript, 
-      jquery, 
-      react, 
-      bootstrap 
-      },
-    learning: {
-      python, 
-      django
-      },
+    technologies: [ 'html', 'javascript', 'jquery', 'react', 'bootstrap' 'css', 'sass'],
+    learning: [ 'python', 'django' ],
     design: [ 'ux', 'ui', 'graphic design' ] 
   }
 
