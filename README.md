@@ -9,11 +9,15 @@ Front end developer @ [EMerald Geomodelling](https://www.emerald-geomodelling.co
 &nbsp;
 
 ```js
-const about = () => {
+const About = () => {
+
+  const currentLocation = 'Bali, Indonesia'
+  const nextLocation = 'Midigama, Sri Lanka'
 
   const bio = {
+    age: 26,
     height: 181, 
-    emoji: 🦋,
+    emojis: 🦋🌍🌈🌴,
     origin: 🇳🇴,
   }
 
@@ -31,7 +35,7 @@ const about = () => {
       python, 
       django
       },
-    design: ['ux', 'ui', 'graphic design'] 
+    design: [ 'ux', 'ui', 'graphic design' ] 
   }
 
 }
