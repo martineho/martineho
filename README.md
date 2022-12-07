@@ -16,9 +16,9 @@ const About = () => {
 
   const bio = {
     age: 26,
-    height: 181, 
     emojis: 🦋🌍🌈🌴,
-    origin: 🇳🇴,
+    religion: 'freedom',
+    hobbies: ['travel', 'sun', 'create']
   }
 
   const skills = {
