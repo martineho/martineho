@@ -7,10 +7,17 @@ Front end developer @ [EMerald Geomodelling](https://www.emerald-geomodelling.co
 
 ```js
 const about = () => {
-  
+
   const skills = {
-    frontEnd: ['html', 'css', 'js', 'react'],
-    learning: ['python', 'django'],
+    languages: ['html', 'css', 'js', 'react'],
+    learning: ['python'],
+    design: ['ux', 'ui', 'brand development'] 
+  }
+
+  const bio = {
+    height: 181, 
+    pronouns: 'she/her',
+    origin: 🇳🇴
   }
 }
 ```
