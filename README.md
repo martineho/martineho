@@ -6,6 +6,16 @@ Front end developer @ [EMerald Geomodelling](https://www.emerald-geomodelling.co
 
 📍 currently in Indonesia
 
+```js
+const about = () => {
+  
+  const skills = {
+    frontEnd: ['html', 'css', 'js', 'react'],
+    learning: ['python', 'django'],
+  }
+}
+```
+
 
 
 
