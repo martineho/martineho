@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I am Martine 👋
+
+Front end developer and UX designer at [EMerald Geomodelling](https://www.emerald-geomodelling.com/)
 
 <!--
 **martineho/martineho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
