@@ -18,8 +18,19 @@ const about = () => {
   }
 
   const skills = {
-    technologies: [html, css, sass, javascript, jquery, react, bootstrap],
-    learning: [python, django],
+    technologies: {
+      html, 
+      css, 
+      sass, 
+      javascript, 
+      jquery, 
+      react, 
+      bootstrap 
+      },
+    learning: {
+      python, 
+      django
+      },
     design: ['ux', 'ui', 'graphic design'] 
   }
 
