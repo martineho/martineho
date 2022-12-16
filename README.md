@@ -4,7 +4,7 @@
 Front end developer @ [EMerald Geomodelling](https://www.emerald-geomodelling.com/).
 
 
-> 100% work from anywhere
+> 100% remote
 
 &nbsp;
 
