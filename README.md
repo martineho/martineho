@@ -11,8 +11,8 @@ Front end developer @ [EMerald Geomodelling](https://www.emerald-geomodelling.co
 ```js
 const About = () => {
 
-  const currentLocation = 'Bali, Indonesia'
-  const nextLocation = 'Midigama, Sri Lanka'
+  const currentLocation = 'Midigama, Sri Lanka'
+  const nextLocation = 'Norway'
 
   const bio = {
     age: 26,
