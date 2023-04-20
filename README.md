@@ -11,11 +11,11 @@ Front end developer @ [EMerald Geomodelling](https://www.emerald-geomodelling.co
 ```js
 const About = () => {
 
-  const currentLocation = 'Midigama, Sri Lanka'
-  const nextLocation = 'Norway'
+  const currentLocation = 'Norway'
+  const nextLocation = 'Thailand'
 
   const bio = {
-    age: 26,
+    age: 27,
     emojis: 🦋🌍🌈🌴,
     mindset: [ 'growth', 'development', 'freedom' ],
     hobbies: [ 'travel', 'sun', 'mindfulness' ]
