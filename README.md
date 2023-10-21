@@ -12,7 +12,7 @@ Front end developer @ [EMerald Geomodelling](https://www.emerald-geomodelling.co
 const About = () => {
 
   const currentLocation = 'Norway'
-  const nextLocation = 'Thailand'
+  const nextLocation = 'Peru'
 
   const bio = {
     age: 27,
