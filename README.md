@@ -11,8 +11,8 @@ Front end developer @ [EMerald Geomodelling](https://www.emerald-geomodelling.co
 ```js
 const About = () => {
 
-  const currentLocation = 'Norway'
-  const nextLocation = 'Peru'
+  const currentLocation = 'Sri Lanka'
+  const nextLocation = 'Norway'
 
   const bio = {
     age: 27,
@@ -22,7 +22,7 @@ const About = () => {
   }
 
   const skills = {
-    technologies: [ 'html', 'javascript', 'jquery', 'react', 'bootstrap' 'css', 'sass'],
+    technologies: [ 'html', 'javascript', 'jquery', 'react', 'nextjs', 'bootstrap' 'css', 'sass'],
     learning: [ 'python', 'django' ],
     design: [ 'ux', 'ui', 'graphic design' ] 
   }
