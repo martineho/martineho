@@ -8,32 +8,6 @@ Front end developer @ [EMerald Geomodelling](https://www.emerald-geomodelling.co
 
 &nbsp;
 
-```js
-const About = () => {
-
-  const currentLocation = 'Sri Lanka'
-  const nextLocation = 'Norway'
-
-  const bio = {
-    age: 27,
-    emojis: 🦋🌍🌈🌴,
-    mindset: [ 'growth', 'development', 'freedom' ],
-    hobbies: [ 'travel', 'sun', 'mindfulness' ]
-  }
-
-  const skills = {
-    technologies: [ 'html', 'javascript', 'jquery', 'react', 'nextjs', 'bootstrap' 'css', 'sass'],
-    learning: [ 'python', 'django' ],
-    design: [ 'ux', 'ui', 'graphic design' ] 
-  }
-
-}
-```
-
-
-
-
-
 
 <!--
 **martineho/martineho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
