@@ -1,12 +1,4 @@
-# Hi, I am ✨ Martine ✨ 
-&nbsp;
-
-Front end developer @ [EMerald Geomodelling](https://www.emerald-geomodelling.com/).
-
-
-> 100% remote
-
-&nbsp;
+# Norwegian-born, remotely-based front-end developer with an eye for design. Into yoga and climbing - split time between city and island life.
 
 
 <!--
