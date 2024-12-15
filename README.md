@@ -1,6 +1,7 @@
 # Norwegian-born, remotely-based front-end developer with an eye for design. Into yoga and climbing - split time between city and island life.
 
-Founder of https://www.mindfulsunday.co/
+
+Founder of [mindfulsunday.co](https://www.mindfulsunday.co/)
 
 <!--
 **martineho/martineho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
